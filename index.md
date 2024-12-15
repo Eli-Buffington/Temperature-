@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-## Correlation between carbon dioxide  emissions and Temperature in the United States
-
+<h1>Correlation between Carbon Dioxide Emissions and Temperature in the United States</h1>
 
 # Introduction
 
