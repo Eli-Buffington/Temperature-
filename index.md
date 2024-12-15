@@ -3,6 +3,9 @@ layout: default
 ---
 <h1>Correlation between Carbon Dioxide Emissions and Temperature in the United States</h1>
 
+
+## Analysis By Cameron Hendry and Eli Buffington
+
 # Introduction
 
 Climate change has irrefutable evidence for its existence. The research has been conducted on datasets going back hundreds of years, showing an increase in the global temperature that is undeniable, giving the length and accuracy of the data. But the relatively lax carbon dioxide regulations and tracking, where corporations have every economic desire to try to circumvent, are much of what is reported when it comes to carbon dioxide emissions. Do these guidelines help predict the change in temperature? If so, how long before the effects are statistically significant, as climate is notoriously unpredictable past a few days. 
